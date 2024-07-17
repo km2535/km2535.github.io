@@ -115,32 +115,23 @@ analytics:
 author:
   name             : "Lee Kangmin"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an **amazing** person."
-  location         : "Seoul, kernel360"
+  bio              : "언제나 배우는 개발자"
+  location         : "Seoul"
   email            :
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "lkm1416@gmail.com"
-   # - label: "Website"
-     # icon: "fas fa-fw fa-link"
-    #  url: "https://your-website.com"
-   # - label: "Twitter"
-    #  icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-   # - label: "Facebook"
-    #  icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/km2535"
+      surl: "https://github.com/km2535"
     
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://githyub.com/km2535
+      url: "https://githyub.com/km2535"
 
 
 # Reading Files
