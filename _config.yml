@@ -124,14 +124,14 @@ author:
       url: "lkm1416@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      surl: "https://github.com/km2535"
+      url: "https://github.com/km2535"
     
 # Site Footer
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://githyub.com/km2535"
+      url: "https://github.com/km2535"
 
 
 # Reading Files
